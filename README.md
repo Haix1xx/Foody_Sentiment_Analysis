@@ -11,3 +11,7 @@ pip install -r requirements.txt
 # Module Foody Crawler
 
 remember to choose right browser driver of your computer in FoodyCrawler Object
+
+add more foody links to crawl more data
+
+
